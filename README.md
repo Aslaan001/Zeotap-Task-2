@@ -62,7 +62,8 @@ npm run build
 This generates an optimized build that can be hosted on platforms like **Vercel, Netlify, or AWS**.
 
 ## 🌐 Live Demo
-[Chatbot Deployed Link](#) (Add link after deployment)
+[[Chatbot Deployed Link](#) 
+(https://jolly-longma-3038a2.netlify.app/)
 
 ---
 
